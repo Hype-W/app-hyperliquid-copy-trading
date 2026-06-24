@@ -2,7 +2,7 @@
 
 <br/>
 
-# ⚡ HYPE — Hyperliquid Trading App
+#  HYPE — Hyperliquid Trading App
 
 ### Trade Perps. Hold Crypto. One App.
 
